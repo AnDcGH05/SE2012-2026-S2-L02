@@ -1,8 +1,8 @@
-\# Student Management System using Classes, Packages \& Control Structures
+# Student Management System using Classes, Packages \& Control Structures
 
 
 
-\## Description
+## Description
 
 
 
@@ -10,23 +10,23 @@ A simple Student Management System developed using Java for SE2012 (OOAD) Practi
 
 
 
-\## Options
+## Options
 
 
 
-\* Add Student
+* Add Student
 
-\* Add Course
+* Add Course
 
-\* List Students
+* List Students
 
-\* Search Student
+* Search Student
 
-\* Sort Students
+* Sort Students
 
 
 
-\## How to Run
+## How to Run
 
 Run the following command from the root directory:
 
@@ -46,7 +46,7 @@ java mainapp.Main
 
 
 
-\## How to Generate Javadoc
+## How to Generate Javadoc
 
 Generate documentation using:
 
